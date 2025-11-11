@@ -1,7 +1,6 @@
 package me.lee.springbootdeveloper.dto;
 
 import lombok.AllArgsConstructor;
-import lombok.Generated;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import me.lee.springbootdeveloper.domain.Article;
